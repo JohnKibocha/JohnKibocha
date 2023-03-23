@@ -3,7 +3,7 @@
 - I’m currently learning HTML, CSS, Javascript, mySQL, PostgreSQL and PhP
 <!--- 💞️ I’m looking to collaborate on ...--->
 - You can contact me via:  
-  - Email:      johnkibocha@outlook.com
+  - Email:      johnkibocha@hotmail.com
   - Twitter:    @john_kibocha
   - Tnstagram:  @john_kibocha
   - Linkedin:   John Kibocha
