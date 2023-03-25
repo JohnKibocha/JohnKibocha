@@ -4,8 +4,6 @@
 <!--- 💞️ I’m looking to collaborate on ...--->
 - You can contact me via:  
   - Email:      johnkibocha@hotmail.com
-  - Twitter:    @john_kibocha
-  - Tnstagram:  @john_kibocha
   - Linkedin:   John Kibocha
 
 <!---
