@@ -1,4 +1,4 @@
-- Hi, I’m @JohnKibocha
+- Hi, I’m John Kibocha
 - I’m interested in Web, Software and App Development
 - I’m currently learning HTML, CSS, Javascript, mySQL, PostgreSQL and PhP
 <!--- 💞️ I’m looking to collaborate on ...--->
