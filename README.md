@@ -4,7 +4,7 @@
 <!--- 💞️ I’m looking to collaborate on ...--->
 - You can contact me via:  
   - Email:      johnkibocha@outlook.com
-  - Website: [Kibocha's Portfolio](johnkibocha.pythonanywhere.com)
+  - Website: [Kibocha's Portfolio](https://johnkibocha.pythonanywhere.com/)
   - Linkedin:   John Kibocha
 
 <!---
