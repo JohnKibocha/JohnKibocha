@@ -5,10 +5,10 @@
 - You can contact me via:  
   - Email:      jonkibocha@gmail.com
   - Website: [Kibocha's Portfolio](https://johnkibocha.pythonanywhere.com/)
-  - Linkedin:   [John Kibocha](www.linkedin.com/in/johnkibocha)
-  - Threads: [John Kibocha](www.threads.net/john_kibocha)
-  - Instagram: [John Kibocha](www.instagram.com/john_kibocha)
-  - X-Twitter: [John Kibocha] (www.twitter.com/KibochaJohn)
+  - Linkedin:   [@JohnKibocha](www.linkedin.com/in/johnkibocha)
+  - Threads: [@JohnKibocha](www.threads.net/john_kibocha)
+  - Instagram: [@JohnKibocha](www.instagram.com/john_kibocha)
+  - X-Twitter: [@KibochaJohn] (www.twitter.com/KibochaJohn)
 
 <!---
 JohnKibocha/JohnKibocha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
