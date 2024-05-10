@@ -10,11 +10,11 @@ I'm a passionate developer with an interest in crafting engaging digital experie
 
 ## Connect with Me
 - 📧 Email: jonkibocha@gmail.com
-- 🌐 Website: Kibocha's Portfolio
-- 🔗 LinkedIn: John Kibocha
-- 🧵 Threads: John Kibocha
-- 📸 Instagram: John Kibocha
-- 🐦 X-Twitter: Kibocha John
+- 🌐 Website:  [Kibocha's Portfolio](https://johnkibocha.pythonanywhere.com/)
+- 🔗 LinkedIn: [@JohnKibocha](www.linkedin.com/in/johnkibocha)
+- 🧵 Threads: [@JohnKibocha](www.threads.net/john_kibocha)
+- 📸 Instagram: [@john_kibocha](www.instagram.com/john_kibocha)
+- 🐦 X-Twitter:  [@KibochaJohn](www.twitter.com/KibochaJohn)
 
 Let's create something amazing together!
 
