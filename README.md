@@ -9,7 +9,7 @@ I'm a passionate developer with an interest in crafting engaging digital experie
 - **Languages**: Kotlin
 
 ## Connect with Me
-- 📧 Email: jonkibocha@gmail.com
+- 📧 Email: johnkibocha865@gmail.com
 - 🌐 Website:  [Kibocha's Portfolio](https://johnkibocha.pythonanywhere.com/)
 - 🔗 LinkedIn: [@JohnKibocha](https://www.linkedin.com/in/johnkibocha)
 - 🧵 Threads: [@JohnKibocha](https://www.threads.net/john_kibocha)
