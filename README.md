@@ -1,7 +1,7 @@
 # Hi there, I'm John Kibocha 👋
 
 ## About Me
-I'm a passionate developer with an interest in crafting engaging digital experiences. I specialize in **Web, Software, and App Development**, bringing ideas to life through code.
+I'm a passionate developer with an interest in crafting engaging digital experiences. I specialize in **Web and Android Development**, bringing ideas to life through code.
 
 ## My Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
